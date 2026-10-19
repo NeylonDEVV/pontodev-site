@@ -11,7 +11,7 @@ window.PONTO_CONFIG = {
   whatsapp: "5561998057228",
 
   // Instagram sem o @. Ex.: 'pontodev'
-  instagram: "pontodev",
+  instagram: "pontodev_bsb",
 
   // Para onde o formulário envia: 'whatsapp' ou 'email'
   formDestino: "whatsapp",
