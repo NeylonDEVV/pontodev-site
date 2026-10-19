@@ -19,7 +19,7 @@
       a.href = "mailto:" + cfg.email;
       label.textContent = cfg.email;
     } else if (type === "whatsapp" && digits) {
-      a.href = "https://wa.me/5561998057228" + digits;
+      a.href = "https://wa.me/" + digits;
       label.textContent = "WhatsApp: " + fmtPhone(digits);
     } else if (type === "instagram" && insta) {
       a.href = "https://instagram.com/" + insta;
